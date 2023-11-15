@@ -13,7 +13,7 @@
 
 Инструменты анализа данных: SQL, Excel, Python
 
-Средства визуализации данных: PowerBi
+Средства визуализации данных: PowerBi, Matplotlib, Seaborn
 
 ## Проекты
 
@@ -37,4 +37,6 @@
 
 ## Контактная информация
 
-midnightfairy@inbox.ru
+Email: midnightfairy@inbox.ru
+
+VK: https://vk.com/alena.n.suvorova
