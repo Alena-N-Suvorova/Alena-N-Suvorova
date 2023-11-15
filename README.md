@@ -1,4 +1,7 @@
 # Портфолио: Аналитик данных
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnc5dDd6Zml3ZG5neHIybWgzaWs1dTBhMmtoZ2JvdnZhemc2Ynd0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RijVbY7xTc0hO/giphy.gif" width="100"/>
+</div>
 
 ## Обо мне
 
